@@ -1,0 +1,88 @@
+{
+    "homeheader":{
+        "specialty": "Medical specialty",
+        "searchdoctor": "find a specialist",
+        "health-facility" :"health facilities",
+        "select-room": "choose hospital clinic",
+        "doctor": "doctor",
+        "select-doctor":"choose a good doctor",
+        "fee": "Examination package",
+        "check-health": "General health check",
+        "support": "support",
+        "welcome":"welcome"
+    },
+    "banner":{
+        "title1":"MEDICAL BACKGROUND",
+        "title2":"COMPREHENSIVE HEALTH CARE",
+        "child1":"specialist examination",
+        "child2":"remote examination",
+        "child3":"general examination",
+        "child4":"medical test",
+        "child5":"mental health",
+        "child6":"dental examination"
+    },
+    "common": {
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "decentralize": "Decentralize",
+        "close": "Close",
+        "save": "Save",
+        "refresh": "Refresh",
+        "accept": "Accept",
+        "confirm": "Confirm",
+        "confirm-this-task": "Are you sure to process this task?",
+        "fail-to-load-data": "Fail to load data",
+        "unknown-error": "There was an error",
+        "internal-server-error": "Internal server error",
+        "bad-request": "Bad request",
+        "forbiden-request": "Invalid input data",
+        "fail-to-load-all-code": "Fail to load data from allcode",
+        "sum": "Sum",
+        "date-range-invalid": "Date range invalid"
+    },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": " manage user using redux",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin":{
+           "manage-user":"manager user",
+           "manage-doctor":"manage doctors",
+           "manage-admin":"manage admins",
+           "crud":"CRUD user",
+           "crud-redux":"CRUD Redux",
+           "clinic":"Clinics",
+           "manage-clinic":"manage clinics",
+           "specialty":"specialties",
+           "manage-specialty":"Manage specialties",
+           "handbook":"Handbook",
+           "manage-handbook":"Manage handbook"
+        }
+
+    },
+    "manage":{
+        "add":"add user",
+        "email":"email",
+        "password":"password",
+        "first-name":"first-name",
+        "last-name":"last name",
+        "phone":"phone",
+        "address":"adress",
+        "gender":"gender",
+        "position":"position",
+        "roleid":"id",
+        "image":"image",
+        "save":"save"
+
+    }
+}
+    
